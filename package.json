@@ -1,0 +1,13 @@
+{
+  "name": "fluxer-auto-role-bot2",
+  "version": "1.0.0",
+  "description": "Fluxer auto role bot for BUT-BOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "ws": "^8.16.0"
+  }
+}
